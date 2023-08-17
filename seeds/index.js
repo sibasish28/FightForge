@@ -44,7 +44,7 @@ const seedDB = async () => {
                   filename: 'YelpCamp/nn2vh8yz05dfbxyfrgjy'
                 }
               ],
-            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam dolores vero perferendis laudantium, consequuntur voluptatibus nulla architecto, sit soluta esse iure sed labore ipsam a cum nihil atque molestiae deserunt!',
+            description: 'Join us on this exhilarating journey, where the ring becomes a canvas for self-expression, determination is your greatest asset, and victory starts with stepping through our doors. Experience the heart-pounding energy of our MMA Gym – where warriors become legends.',
             price
         })
         await camp.save();
